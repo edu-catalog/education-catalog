@@ -1,4 +1,5 @@
-[
+window.catalogData = window.catalogData || {};
+window.catalogData["Калужская область"] = [
   {
     "number": 1,
     "name": "ГБПОУ «Ермолинский техникум»",
