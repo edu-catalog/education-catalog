@@ -30,7 +30,7 @@ window.catalogData["Ханты-Мансийский автономный окр�
   {
     number: 2,
     name: "БПОУ «Сургутский музыкальный колледж»",
-    website: "www.surgutmusic.ru",
+    website: "https://www.surgutmusic.ru",
     vk: "https://vk.com/surgutmusic",
     address: "628404, Ханты-Мансийский автономный округ-Югра, г. Сургут, ул. Энтузиастов, 28",
     phone: "8 (346) 245-74-97",
